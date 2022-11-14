@@ -1,3 +1,4 @@
+.gitignore.swp
 *.class
 bin/platform/**
 bin/modules/**
